@@ -1,0 +1,41 @@
+{
+  "identifier" : "Litterbrand",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "litterbrand_group",
+      "localizations" : [],
+      "name" : "Litterbrand Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "litterbrand_pro_monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Ranked favorites list and reorder reminder based on bag size",
+              "displayName" : "Litterbrand Pro Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "litterbrand_pro_monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Litterbrand Pro Monthly",
+          "subscriptionGroupID" : "litterbrand_group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
