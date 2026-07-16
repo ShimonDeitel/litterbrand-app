@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: LitterbrandTests
-      - path: Litterbrand.storekit
     dependencies:
       - target: Litterbrand
     settings:
